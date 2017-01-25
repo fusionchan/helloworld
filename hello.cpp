@@ -1,5 +1,6 @@
 #include<iostream>
-#incldue<stdio.h>
+#include<stdio.h>
+#include<algorithm>
 using namespace std;
 int main()
 {

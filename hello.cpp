@@ -6,6 +6,7 @@ int main()
 {
   cout<<"hello world!"<<endl;
   cout <<"hellotest"<<endl;
+  cout <<"23333"<<endl;
   return 0;
   // zhushi 1
   // zhushi 2

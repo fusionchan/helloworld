@@ -10,6 +10,7 @@ int main()
   cin>>x>>y;
   cout<<x+y<<endl;
   cout<<"hello world!"<<endl;
+  cout <<"hellotest"<<endl;
   return 0;
   // zhushi 1
   // zhushi 2
